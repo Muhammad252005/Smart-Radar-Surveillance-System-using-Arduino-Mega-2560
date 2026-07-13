@@ -150,7 +150,7 @@ The system continuously performs the following sequence:
 
 # Source Code
 
-The complete source [code]() for this project is included in the repository.
+The complete source [code](ard_code/RADAR_SCANNING_SURVEILLANCE_SYSTEM_processing.ino) for this project is included in the repository.
 
 ### Arduino Program
 
@@ -175,7 +175,7 @@ Implements:
 
 # Demonstration
 
-![circuit_diagram]()
+![circuit_diagram](images/Surveillance2.jpg)
 
 The demonstration illustrates:
 
